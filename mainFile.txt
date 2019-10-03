@@ -1,3 +1,1 @@
-This is our main file!
-
-Now we're making a new feature and don't want to affect our working code
+This is our favorite file!
